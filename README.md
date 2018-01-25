@@ -1,6 +1,6 @@
 # gender_classifier
 
-Python 3 code for classification of Danish blog authors for my Master's thesis.
+Python 3 code for web crawling, web scraping and classification of Danish blog authors for my Master's thesis.
 
 <i>NB! Requires:</i>
 <ul>
